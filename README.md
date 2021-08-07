@@ -1,3 +1,2 @@
-# html5-boilerplate
-
-Boilerplate-HTML, CSS , JavaScript , Bootstrap
+#html5-boilerplate
+>Boilerplate-HTML, CSS , JavaScript , Bootstrap
